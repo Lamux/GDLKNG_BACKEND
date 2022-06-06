@@ -1,0 +1,27 @@
+{
+    "name": "backend_gdlkng",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start:dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "angularx-social-login": "^4.1.0",
+        "bcryptjs": "^2.4.3",
+        "cors": "^2.8.5",
+        "dotenv": "^15.0.1",
+        "express": "^4.17.2",
+        "express-fileupload": "^1.4.0",
+        "express-validator": "^6.14.1",
+        "google-auth-library": "^8.0.2",
+        "jsonwebtoken": "^8.5.1",
+        "luxon": "^2.4.0",
+        "mongoose": "^6.3.5",
+        "morgan": "^1.10.0",
+        "uuid": "^8.3.2"
+    }
+}
