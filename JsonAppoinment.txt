@@ -1,0 +1,41 @@
+"user": "62d63ae652d805bfedf120b4",
+    "services": "62d9b892da6218589233bd29",
+    "staffServices":{
+        "staff": "",
+        "nameCollaborator": "",
+        "staffType": ""
+    },
+    "appointmentDate": {
+        "dateService": "",
+        "timeService": "",
+        "status": "",
+        "businessCreatedAppointment": {
+            "creatorBusiness": "",
+            "UpdateBusiness": "",
+            "dateCreateBusiness": "",
+            "dateUpdateBusiness": ""
+        }
+    },
+    "appointmentControlObservations": {
+        "userObservations": "",
+        "managerObservations": "",
+        "collaboratorObservations": ""
+    },
+    "appointmentStatus": true,
+    "staffRating": {
+        "questionOne": "",
+        "ratingOne": "",
+        "questionTwo": "",
+        "ratingTwo": "",
+        "questionThree": "",
+        "ratingThree": ""
+    },
+    "userRating": {
+        "questionOne": "",
+        "ratingOne": "",
+        "questionTwo": "",
+        "ratingTwo": "",
+        "questionThree": "",
+        "ratingThree": ""
+    }
+}
